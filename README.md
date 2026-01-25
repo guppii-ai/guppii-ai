@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gurpreet 👋
 
-<!--
-**guppii-ai/guppii-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI/ML Engineer with hands-on experience in  
+Machine Learning, NLP, Computer Vision, and Generative AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I work on
+- End-to-end ML & GenAI projects
+- RAG systems & agentic workflows
+- Clean, explainable, production-style code
+
+---
+
+### 🎯 Career Focus
+- AI/ML Internship
+- Junior AI/ML Engineer (GenAI-focused roles)
+
+---
+
+### 🛠 Tech Stack
+Python • Machine Learning • NLP • CV  
+LLMs • RAG • Agentic AI • LangChain
+
