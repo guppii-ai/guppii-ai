@@ -1,7 +1,7 @@
 # Hi, I'm Gurpreet 👋
 
 Junior AI/ML Engineer with hands-on experience in  
-Machine Learning, NLP, Computer Vision, and Generative AI.
+Machine Learning, NLP, Computer Vision, Generative AI and Agentic AI.
 
 ---
 
@@ -14,7 +14,7 @@ Machine Learning, NLP, Computer Vision, and Generative AI.
 
 ### 🎯 Career Focus
 - AI/ML Internship
-- Junior AI/ML Engineer (GenAI-focused roles)
+- Junior AI/ML Engineer (GenAI and Agentic AI-focused roles)
 
 ---
 
